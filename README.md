@@ -195,7 +195,6 @@ To get started with Brownie:
 * For more in-depth information, read the [Brownie documentation](https://eth-brownie.readthedocs.io/en/stable/).
 
 
-Any questions? Join our [Discord](https://discord.gg/2YHSAey)
 
 ## License
 
