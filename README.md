@@ -1,8 +1,8 @@
-# SmartContract Lottery
+# SmartContract TYLGame
 
 This is a repo to work with and create a truely random smart contract lottery in a python environment. If you're brand new to solidity, be sure to check out [FreeCodeCamp](https://www.freecodecamp.org/news/tag/solidity/). If you're new to brownie, check out the [Brownie](https://eth-brownie.readthedocs.io/en/stable/) documentation.  If you're brand new to Chainlink, check out the beginner walkthroughs in remix to [learn the basics.](https://docs.chain.link/docs/beginners-tutorial)
 
-- [SmartContract Lottery](#smartcontract-lottery)
+- [SmartContract TYLGame](#smartcontract-lottery)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Testnet Development](#testnet-development)
